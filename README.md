@@ -9,7 +9,7 @@ previously open tabs, however sometimes it will only restore a maximum of 25 ope
 files from C:\Users\<YourUsername>\AppData\Local\Microsoft\Edge\User Data\Default\Sessions, and put a copy of 
 them in the same folder as this script and it will hopefully recover your open tabs in the form of a bookmarks 
 file that you can import into Edge and use to restore your open tabs. The script will create a bookmarks folder 
-for each tab group. The code was written by ChatGPT, with guidance from me.
+for each tab group. The code was written by ChatGPT, with algorithmic guidance from me.
 
 ## What it does
 - Reads an MS Edge `Session_*` binary (and optional `Tabs_*` file).
