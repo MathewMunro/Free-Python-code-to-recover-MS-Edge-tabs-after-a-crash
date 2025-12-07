@@ -8,7 +8,9 @@ loss of power, it can fail to load the previous session. Often repeatedly pressi
 previously open tabs, however sometimes it will only restore a maximum of 25 open tabs. Save a copy of the Session 
 and Tabs files from C:\Users\<YourUsername>\AppData\Local\Microsoft\Edge\User Data\Default\Sessions to the same 
 folder as you have put this script in, install Python, and run the following Command Prompt execution command:
-ython Recover_MS_Edge_Open_Tabs_v54.py --session Session_XXXXXXXXXXXX --tabs Tabs_YYYYYYYYYYYY
+
+Python Recover_MS_Edge_Open_Tabs_v54.py --session Session_XXXXXXXXXXXX --tabs Tabs_YYYYYYYYYYYY
+
 and hopefully this script will recover your open tabs in the form of a bookmarks file that you can import into 
 Edge and use to restore your open tabs. The script will create a bookmarks folder for each tab group.
 
